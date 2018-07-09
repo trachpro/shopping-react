@@ -42,4 +42,4 @@ setTimeout(function() {
 		triggerBttn.addEventListener( 'click', toggleOverlay );
 		closeBttn.addEventListener( 'click', toggleOverlay );
 	})()
-}, 100)
+}, 300)
